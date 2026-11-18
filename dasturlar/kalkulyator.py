@@ -4,3 +4,6 @@
 a = 12
 b = 5
 print("Yigindi:", a + b)
+
+# --- qadam 2: ayirma qoshildi ---
+print("Ayirma:", a - b)
