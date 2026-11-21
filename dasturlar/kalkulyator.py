@@ -7,3 +7,6 @@ print("Yigindi:", a + b)
 
 # --- qadam 2: ayirma qoshildi ---
 print("Ayirma:", a - b)
+
+# --- qadam 3: kopaytma qoshildi ---
+print("Kopaytma:", a * b)
